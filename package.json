@@ -1,0 +1,17 @@
+{
+  "name": "lab-1-nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Lab1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pascal-case": "^3.1.2"
+  },
+  "devDependencies": {
+    "number-precision": "^1.6.0"
+  }
+}
